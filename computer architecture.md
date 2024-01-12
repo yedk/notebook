@@ -1,6 +1,6 @@
 [TOC]
 
-RISC 计算机的主要问题是
+## RISC 计算机的主要问题是
 1. the exploitation of instruction-level parallelism (initially through pipelining and later through multiple
 instruction issue) 
 2. the use of caches (initially in simple forms and later using more sophisticated organizations and optimizations).
@@ -9,6 +9,12 @@ ILP
 DLP
 TLP
 RLP
+
+## instructions set
+
+
+## ILP
+pipeline
 
 
 
